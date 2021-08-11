@@ -1,0 +1,16 @@
+usage = 'Test'
+name = 'audio'
+task = 'multiclass.classification'
+metric = ''
+feat_type = ''
+feat_num = 1
+target_num = 1
+label_num = 7
+train_num = 428
+valid_num = 107
+test_num = 107
+has_categorical = 0
+has_missing = 0
+is_sparse = 0
+time_budget = 6000
+input_type = 'audio'
